@@ -44,8 +44,8 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
 - Conducting a scoping review in health data, focusing on vocabularies, terminologies, and standards.
 
 ## 🌐 How to Reach Me
-- **LinkedIn**: [João Kasprowicz](https://www.linkedin.com/in/joaokasprowicz/)
-- **Email**: joao.kasprowicz@example.com
+- **LinkedIn**: [João Kasprowicz](www.linkedin.com/in/joão-kasprowicz-249194120)
+- **Email**: joao.kasprowicz@univali.br
 
 ## 🏅 Certifications
 In progress
