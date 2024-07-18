@@ -1,7 +1,7 @@
 # Hi there, I'm João Kasprowicz 👋
 
 ## 🚀 About Me
-I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I have a strong background in Laboratory Information Systems (LIS) and Quality Control. My current focus is on developing innovative projects using Python, Django, HTML, CSS, and JavaScript. 
+I am a Biomedical Scientist currently doing a Master’s degree in Medical Informatics. I have a strong background in Laboratory Information Systems (LIS) and Quality Control. My current focus is on developing innovative projects using Python, Django, HTML, CSS, and JavaScript. 
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
