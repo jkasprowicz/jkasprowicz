@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jkasprowicz&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+</p>
