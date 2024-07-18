@@ -28,11 +28,8 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&hide_progress=true)
 
 ## 🌐 How to Reach Me
-![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-![Instragram]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
-
-
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ## 🏅 Certifications
 In progress
