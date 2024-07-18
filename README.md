@@ -11,6 +11,11 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Nginx, Gunicorn
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&hide_progress=true)
+
 ## 🌟 Public Projects
 ### Health Informatics & Biomedical Projects
 1. **Leukocyte Classification & Counting**:
