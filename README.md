@@ -39,6 +39,11 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
    - **Technologies**: Django, Python.
    - [GitHub Repository](#)
 
+## 🌟 Private Projects
+1. ** Control Quality System**
+   - **Description**: Building a end to end system for manage all control quality aspects related from a clinical laboratory, user control access, documents manager, samples bank, tasks and more.
+
+
 ## 🔧 Currently Working On
 - Building a comprehensive user authentication system with groups, profiles, and access control in Django.
 - Conducting a scoping review in health data, focusing on vocabularies, terminologies, and standards.
