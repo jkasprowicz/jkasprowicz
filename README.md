@@ -13,7 +13,7 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&show_icons=true&theme=radical) /n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&hide_progress=true)
 
 ## 🌟 Public Projects
