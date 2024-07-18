@@ -24,8 +24,7 @@ I am a Biomedical Scientist with a Master’s degree in Medical Informatics. I h
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&show_icons=true&theme=radical)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkasprowicz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 How to Reach Me
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
