@@ -31,6 +31,9 @@ I am a Biomedical Scientist currently doing a Master’s degree in Medical Infor
 ![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ## 🏅 Certifications
-In progress
+  - certificate: Professional Certificate Data Science
+    institution: IBM - Coursera
+    url_institution: "https://www.coursera.org/account/accomplishments/professional-cert/PGND7QHICFHQ"
+    year: 2024
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
