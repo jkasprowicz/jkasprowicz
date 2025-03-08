@@ -33,6 +33,7 @@ I am a Biomedical Scientist currently doing a Master’s degree in Medical Infor
 
 ## 🏅 Certifications
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/professional-cert/PGND7QHICFHQ)
+[![Meta](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/specialization/certificate/RLQZNSZ8RGNC)
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
