@@ -32,10 +32,10 @@ I am a Biomedical Scientist currently doing a Master’s degree in Medical Infor
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaokasprowicz)
 
 ## 🏅 Certifications
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/professional-cert/PGND7QHICFHQ)]
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/professional-cert/PGND7QHICFHQ)
 
 
-[![Meta](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/specialization/certificate/RLQZNSZ8RGNC)]
+[![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)(https://www.coursera.org/account/accomplishments/specialization/certificate/RLQZNSZ8RGNC)
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
