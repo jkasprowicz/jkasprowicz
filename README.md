@@ -1,7 +1,11 @@
 # Hi there, I'm João Kasprowicz 👋
 
 ## 🚀 About Me
-I am a Biomedical Scientist currently doing a Master’s degree in Medical Informatics. I have a strong background in Laboratory Information Systems (LIS) and Quality Control. My current focus is on developing innovative projects using Python, Django, HTML, CSS, and JavaScript. 
+I am a Biomedical Scientist currently pursuing a Master’s degree in Medical Informatics, with a strong foundation in Laboratory Information Systems (LIS) and Quality Control. I have hands-on experience in computer vision, machine learning, and deep learning, having worked on projects involving OCR for text extraction, emotion classification using pre-trained models, and medical image analysis.
+
+My current focus is on developing innovative projects using Python, Django, HTML, CSS, and JavaScript to build applications that integrate biomedical data with advanced technologies. I am passionate about leveraging my skills in data science to drive improvements in healthcare systems and patient monitoring solutions, as well as working with frameworks like TensorFlow, PyTorch, and OpenCV.
+
+I am eager to continue expanding my expertise in artificial intelligence and data science, and I aim to create impactful solutions that bridge the gap between technology and biomedical sciences.
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
