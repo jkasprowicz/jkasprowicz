@@ -1,5 +1,6 @@
 # Hi there, I'm João Kasprowicz 👋
 
+I have a biomedical degree, a data science degree, and I’m currently pursuing a master’s in health informatics. I also hold a technical degree in system analysis and development. My approach to learning is hands-on, tackling practical problems and enjoying the process, even when it gets challenging. I’m passionate about combining my expertise in healthcare and technology to develop innovative solutions.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkasprowicz&show_icons=true&theme=radical)
 
