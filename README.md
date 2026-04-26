@@ -1,17 +1,3 @@
 # Hi there, I'm João Kasprowicz 👋
 
 Always learning.
-
-## 🌐 How to Reach Me
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaokasprowicz)
-
-## 🏅 Certifications
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/account/accomplishments/professional-cert/PGND7QHICFHQ)
-
-
-[![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/RLQZNSZ8RGNC)
-
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
